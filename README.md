@@ -7,7 +7,7 @@ The Word Frequency Analyzer is a Python program that analyzes the frequency of w
 1. Run the program using the following command:
 
    ```shell
-   python word_frequency_analyzer.py
+   python assignment.py
 
 ## Examples
 
